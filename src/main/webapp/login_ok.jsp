@@ -16,6 +16,6 @@
     Password: <jsp:getProperty name="user" property="password"/>
 
     <p>input 태그의 name 속성이 userInfo 클래스의 프로퍼티 이름(name, password)과 완벽하게 일치해야 "jsp: setProperty"가 작동합니다.</p>
-    <a href = index.jsp>Welcome page!!</a>
+    <a href = welcome.jsp>Welcome page!!</a>
 </body>
 </html>
